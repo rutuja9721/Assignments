@@ -1,0 +1,37 @@
+Emp_id,First_Name,Last_Name,Gender_id,Department,Dept_ID,Mob_No,Email_Id,Address,State,City,Pincode,Manager_id,Hire_date,Salary,Friend_id
+101,Omkar,Bodas,1,Data Science,1,8983336733,omkarbodas3333@gmail.com,"436, Narayan Peth, Yashoram Apt Bhat Lane.",Maharashtra,Pune,411030,301,2021-10-18,15000.00,120
+102,Anupam,Mishra,1,SAP,2,9532241644,anupam.mishra@kriosispl.in,Village Post Muradih Via Reoti,UP,Varanasi,277209,301,2021-10-09,10000.00,125
+103,Keyur,Upasani,1,Data Science,1,9820020123,upasanikn@gmail.com,"DP Road, Aundh",Maharashtra,Mumbai,411007,302,2021-07-26,10000.00,112
+104,Dhanashree,Wani,2,SalesForce,3,9665031234,dhanashree@live.com,"shahu nagar,chinchwad-pune",Maharashtra,Pune,411017,302,2021-01-18,10000.00,117
+105,Harshada,Gangurde,2,Power BI,4,7387673245,harshu@gmail.com,"swami vivekanand nagar,new sanghavi",Maharashtra,Pune,411027,303,2021-10-19,20000.00,130
+106,Arti,Gagare,2,Power BI,4,7387673239,arti@gmail.com,"gavane wasti,bhosri",Maharashtra,Pune,411039,303,2021-07-26,10000.00,133
+107,Yogesh,Gaikwad,1,Data Science,1,8983336744,yogesh@gmail.com,102 Yerawada,Maharashtra,Pune,411021,301,2021-10-18,13000.00,101
+108,Dinesh ,Deodhare,1,SAP,2,8983446744,dinesh@gmail.com,Sadhashiv peth,Maharashtra,Pune,411030,301,2021-12-24,13143.00,101
+109,Abhijit,Panaskar,1,Data Science,1,8963545567,Abhiji@gmail.com,Sanagali,Maharashtra,Sangali,411002,302,2021-07-26,13286.00,101
+110,Anupam ,Upasani,1,SalesForce,3,9405263536,Anupam@gmail.com,Varanasi lahar tara,UP,Varanasi,442211,302,2021-10-18,13429.00,101
+111,Keyur ,Mishra,1,Power BI,4,8983445566,Keyur@gmail.com,High street Baner,Maharashtra,Pune,411007,303,2021-10-09,13571.00,101
+112,Rishabh,Sharma,1,Power BI,4,9944227799,Rutuja.Deshpande@hotmail.com,210- Lucknow,UP,Lucknow,277201,303,2021-07-26,13714.00,102
+113,Prashant,Mishra,1,Data Science,1,7788224455,prashant.mishra@hotmail.com,211-Kanpur,UP,Kanpur,277202,301,2021-10-18,13857.00,102
+114,Omkar,Pandey,1,SAP,2,8877378322,omkar.pande@gmail.com,220-Ballia,UP,Ballia,277203,301,2021-10-09,14000.00,102
+115,Vikas,Suhane,1,Data Science,1,6633343425,vikas.suhane@gmail.com,115-Lahartara,UP,Varanasi,334421,302,2021-07-26,14143.00,102
+116,Rohini,Padole,2,SalesForce,3,9332215134,Rohini.padole@outlook.com,3/7-Nagpur,Maharashtra,Nagpur,764433,302,2021-10-18,14286.00,102
+117,Rohit,Bibe,1,Power BI,4,9820020124,rohit@gmail.com,"Jupiter Hospital, Baner",Maharashtra,Paltan,411008,303,2021-10-09,14429.00,103
+118,Monika,Narale,2,Power BI,4,9820020125,monika@gmail.com,"Dmart, Baner",Maharashtra,Satara,411009,303,2021-07-26,14571.00,103
+119,Dnyanraj,Dhamne,1,Data Science,1,9820020126,dnyanraj@gmail.com,"MIT, Kothrud",Maharashtra,Pune,411010,301,2021-10-18,14714.00,103
+120,Rutuja,Deshpande,2,SAP,2,9820020127,rutuja@gmail.com,"Chandani Chowk, Kothrud",Maharashtra,Pune,411010,301,2021-10-09,14857.00,103
+121,Pranit,Shinde,1,Data Science,1,9820020128,pranit@gmail.com,"Pimple Gurav, PCMC",Maharashtra,Pune,411011,302,2021-07-26,15000.00,103
+122,Varsha,Patil,2,SalesForce,3,9868041324,Varsha@live.com,"mahajan nagar, nashik",Maharashtra,Nashik,422010,302,2021-10-18,15143.00,104
+123,Abhijit,Deshpande,1,Power BI,4,9867891234,Abhijit@yahoo.com,"pawan nagar, nashik",Maharashtra,Nashik,422110,303,2021-10-09,15286.00,104
+124,Prasad,Mali,1,Power BI,4,8625656821,Prasad@google.com,"purna nagar,chinchwad,pune",Maharashtra,Pune,411018,303,2021-07-26,15429.00,104
+125,shivani,jadhav,2,Data Science,1,7554031234,Shivani@live.com,"mahi nagar,thane",Maharashtra,Thane,411031,301,2021-10-18,15571.00,104
+126,Spruha,vaze,2,SAP,2,9360743521,spruha@yahoo.com,"model colony,Pune",Maharashtra,Thane,411033,301,2021-10-09,15714.00,104
+127,Manisha ,Patil,2,Data Science,1,8403009365,manisha@gmail.com,"katepuram,new sangavi,pune",Maharashtra,Pune,425400,302,2021-07-26,15857.00,105
+128,Rushikesh,Deshpande,1,SalesForce,3,8787325745,rushi@tcs.com,"shivaji nagar,pune",Maharashtra,pune,400345,302,2021-10-18,16000.00,105
+129,Bhagyashree,patil,2,Power BI,4,7845786676,bpatil@tcs.in,"vivek nagar ,new sangavi,pune",Maharashtra,Pune,425400,303,2021-10-09,16143.00,105
+130,Kamini,shisode,2,Power BI,4,7683847422,shisodek@gmail.com,"chandan nagar,pune",Maharashtra,pune,411017,303,2021-07-26,16286.00,105
+131,Shubham,sood,1,Data Science,1,7848759283,shubham@info.in,"vishrantwadi,pune",Maharashtra,Pune,400345,301,2021-10-18,16429.00,105
+132,Bharti,Unde,2,SAP,2,7387673240,bharti@gmail.com,"Moshi,Pune",Maharashtra,Pune,411040,301,2021-10-09,16571.00,106
+133,Triveni,Bhalke,2,Data Science,1,7387673241,triveni@gmail.com,"gandharwa nagri,Moshi",Maharashtra,Pune,411041,302,2021-07-26,16714.00,106
+134,Sayli,Auti,2,SalesForce,3,7387673242,sayli@gmail.com,"charholi,Pune",Maharashtra,Pune,411042,302,2021-10-18,16857.00,106
+135,Anushka,Fhatangre,2,Power BI,4,7387673243,anushka@gmail.com,"dewachi alandi,pune",Maharashtra,Pune,411043,303,2021-10-09,17000.00,106
+136,Shivansh,Dighe,1,Power BI,4,7387673244,shivansh@gmail.com,"nashik phata,pune",Maharashtra,Pune,411044,303,2021-07-26,17143.00,106
